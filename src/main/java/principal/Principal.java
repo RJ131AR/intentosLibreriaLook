@@ -11,7 +11,7 @@ public class Principal {
     Login frmL = new Login();
     
     ControladorL ctrl = new ControladorL(frmL);
-    //ctrl.iniciar();  
+    //ctrl.iniciar();  // metodo con tema por defecto
     //ctrl.iniciarJtatto();
     //ctrl.intentos1();
     ctrl.intentos2();
